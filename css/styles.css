@@ -269,7 +269,7 @@
             .inside #footer {
                 bottom: 0;
                 position: absolute;
-                width: 100%;
+                width: calc(100% - 50px);
             }
             
             #restaurant-name {
